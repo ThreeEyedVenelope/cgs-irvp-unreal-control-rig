@@ -1104,3 +1104,49 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.08.29-15.00.45:896][648]LogViewport: Scene viewport resized to 492x564, mode Windowed.
 [2023.08.29-15.00.45:974][649]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2023.08.29-15.02.36:065][243]LogDerivedDataCache: C:/Users/catta/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:09.407 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 5194 files in 6878 folders with total size 460 MiB.
+[2023.08.29-15.04.10:213][243]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.29-15.04.29:147][873]LogSlate: Took 0.000667 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.08.29-15.10.07:745][241]BlueprintLog: New page: Compile SKM_Midnight_CtrlRig
+[2023.08.29-15.10.07:778][241]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.08.29-15.10.12:681][474]LogEditorTransaction: Undo Move Control
+[2023.08.29-15.10.12:785][474]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.29-15.11.26:801][853]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.08.29-15.11.26:802][853]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.017
+[2023.08.29-15.11.26:803][853]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Midnight/SKM_Midnight_CtrlRig] ([2] browsable assets)...
+[2023.08.29-15.11.26:811][853]OBJ SavePackage:     Rendered thumbnail for [ControlRigBlueprint /Game/Midnight/SKM_Midnight_CtrlRig.SKM_Midnight_CtrlRig]
+[2023.08.29-15.11.26:811][853]OBJ SavePackage: Finished generating thumbnails for package [/Game/Midnight/SKM_Midnight_CtrlRig]
+[2023.08.29-15.11.26:818][853]LogPackageLocalizationCache: Processed 41 localized package path(s) for 1 prioritized culture(s) in 0.006027 seconds
+[2023.08.29-15.11.26:826][853]LogSerialization: UsePackageTrailer: 'true'
+[2023.08.29-15.11.26:841][853]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Midnight/SKM_Midnight_CtrlRig_Auto1
+[2023.08.29-15.11.26:841][853]LogSavePackage: Moving '../../../../../../Users/catta/Documents/dev/unreal/cgs-irvp-unreal-control-rig/IRVP-Week12-Prestart/Saved/SKM_Midnight_CtrlRig_Auto13227B82749FB26F978EB949955923AAE.tmp' to '../../../../../../Users/catta/Documents/dev/unreal/cgs-irvp-unreal-control-rig/IRVP-Week12-Prestart/Saved/Autosaves/Game/Midnight/SKM_Midnight_CtrlRig_Auto1.uasset'
+[2023.08.29-15.11.26:843][853]LogFileHelpers: Auto-saving content packages took 0.041
+[2023.08.29-15.11.33:302][184]LogEditorTransaction: Undo Move Control
+[2023.08.29-15.11.33:412][184]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.29-15.14.12:290][664]LogEditorTransaction: Undo Move Control
+[2023.08.29-15.14.12:401][664]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.29-15.14.35:282][950]LogEditorTransaction: Undo Move Control
+[2023.08.29-15.14.35:383][950]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.29-15.15.43:611][920]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.29-15.15.43:693][920]LogSavePackage: Moving output files for package: /Game/Midnight/SKM_Midnight_CtrlRig
+[2023.08.29-15.15.43:694][920]LogSavePackage: Moving '../../../../../../Users/catta/Documents/dev/unreal/cgs-irvp-unreal-control-rig/IRVP-Week12-Prestart/Saved/SKM_Midnight_CtrlRig53F24028459F2E75E4ED7B9C9E310A5C.tmp' to '../../../../../../Users/catta/Documents/dev/unreal/cgs-irvp-unreal-control-rig/IRVP-Week12-Prestart/Content/Midnight/SKM_Midnight_CtrlRig.uasset'
+[2023.08.29-15.15.43:701][920]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms
+[2023.08.29-15.15.43:724][920]AssetCheck: New page: Asset Save: SKM_Midnight_CtrlRig
+[2023.08.29-15.15.43:724][920]LogContentValidation: Display: Validating /Script/ControlRigDeveloper.ControlRigBlueprint /Game/Midnight/SKM_Midnight_CtrlRig.SKM_Midnight_CtrlRig
+[2023.08.29-15.15.44:670][977]BlueprintLog: New page: Compile SKM_Midnight_CtrlRig
+[2023.08.29-15.15.44:705][977]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.08.29-15.17.05:324][660]LogEditorTransaction: Undo Move Control
+[2023.08.29-15.17.05:429][660]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.29-15.17.06:132][684]LogEditorTransaction: Undo Change Numeric Value
+[2023.08.29-15.17.06:209][684]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.29-15.17.20:085][477]BlueprintLog: New page: Compile SKM_Midnight_CtrlRig
+[2023.08.29-15.17.20:118][477]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.08.29-15.17.20:931][524]BlueprintLog: New page: Compile SKM_Midnight_CtrlRig
+[2023.08.29-15.17.20:968][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.08.29-15.17.30:731][ 50]BlueprintLog: New page: Compile SKM_Midnight_CtrlRig
+[2023.08.29-15.17.30:771][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.08.29-15.17.37:847][444]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.29-15.17.37:939][444]LogSavePackage: Moving output files for package: /Game/Midnight/SKM_Midnight_CtrlRig
+[2023.08.29-15.17.37:939][444]LogSavePackage: Moving '../../../../../../Users/catta/Documents/dev/unreal/cgs-irvp-unreal-control-rig/IRVP-Week12-Prestart/Saved/SKM_Midnight_CtrlRig25E18E4944F04E0E4114839085468966.tmp' to '../../../../../../Users/catta/Documents/dev/unreal/cgs-irvp-unreal-control-rig/IRVP-Week12-Prestart/Content/Midnight/SKM_Midnight_CtrlRig.uasset'
+[2023.08.29-15.17.37:949][444]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 192 ms)
+[2023.08.29-15.17.37:962][444]AssetCheck: New page: Asset Save: SKM_Midnight_CtrlRig
+[2023.08.29-15.17.37:962][444]LogContentValidation: Display: Validating /Script/ControlRigDeveloper.ControlRigBlueprint /Game/Midnight/SKM_Midnight_CtrlRig.SKM_Midnight_CtrlRig
