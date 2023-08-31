@@ -5,7 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/catta/Documents/dev/unreal/cgs-irvp-unreal-control-rig/IRVP-Week12-Prestart/Content/Midnight/SKM_Midnight_CtrlRig.uasset"
+				"C:/Users/catta/Documents/dev/unreal/cgs-irvp-unreal-control-rig/IRVP-Week12-Prestart/Content/Midnight/SKM_Midnight_CtrlRig.uasset",
+				"C:/Users/catta/Documents/dev/unreal/cgs-irvp-unreal-control-rig/IRVP-Week12-Prestart/Content/TestMap.umap",
+				"C:/Users/catta/Documents/dev/unreal/cgs-irvp-unreal-control-rig/IRVP-Week12-Prestart/Content/SKM_Midnight_CtrlRig_Take1.uasset",
+				"C:/Users/catta/Documents/dev/unreal/cgs-irvp-unreal-control-rig/IRVP-Week12-Prestart/Content/SKM_Midnight_CtrlRig_Take2.uasset"
 			]
 		}
 	]
